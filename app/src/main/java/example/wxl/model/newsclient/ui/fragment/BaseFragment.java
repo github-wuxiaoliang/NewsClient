@@ -37,6 +37,6 @@ public abstract  class BaseFragment extends Fragment {
         initData();//初始化数据
     }
 
-    private void initData() {
+    public void initData() {
     }
 }
